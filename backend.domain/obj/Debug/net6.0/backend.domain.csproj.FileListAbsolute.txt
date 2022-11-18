@@ -1,0 +1,12 @@
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\bin\Debug\net6.0\backend.domain.deps.json
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\bin\Debug\net6.0\backend.domain.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\bin\Debug\net6.0\backend.domain.pdb
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.csproj.AssemblyReference.cache
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.AssemblyInfoInputs.cache
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.AssemblyInfo.cs
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.csproj.CoreCompileInputs.cache
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\refint\backend.domain.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\backend.domain.pdb
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.domain\obj\Debug\net6.0\ref\backend.domain.dll

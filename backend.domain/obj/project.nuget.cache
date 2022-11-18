@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "76Ev3aCxWQCkQZyMG8lm3SeMFpQWQEq4fHLGE3o0LdVNNkaS/jF8fy5LcgIQKUYAzH+g/OTPYZGRNlxlOMdvnA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\projects\\prt-glenn-mateus-01\\backend.domain\\backend.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glenn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\glenn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\glenn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

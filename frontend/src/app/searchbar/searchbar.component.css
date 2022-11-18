@@ -1,0 +1,49 @@
+form {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.result {
+  margin-top: 2em;
+}
+.d-none {
+  display: none;
+}
+.submit-buttom {
+  margin-top: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mat-form-field {
+  width: 30em;
+  height: 3em;
+  font-size: 1rem;
+  background-color: white;
+  border-radius: 34px;
+  box-shadow: 0px 3px 6px #000 12;
+  border: 1px solid #e8e8e8;
+}
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-infix {
+  padding: .8em 0 1em 0;
+}
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-flex {
+  margin-top: -0.75em !important;
+}
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-outline {
+  display: none !important;
+}
+
+::ng-deep .mat-form-field-subscript-wrapper {
+  margin-top: 0 !important;
+}
+
+::ng-deep .mat-form-field-appearance-outline.mat-form-field-can-float.mat-form-field-should-float .mat-form-field-label,
+.mat-form-field-appearance-outline.mat-form-field-can-float .mat-input-server:focus + .mat-form-field-label-wrapper .mat-form-field-label {
+  transform: translateY(-1.7em) scale(0.75) !important;
+}

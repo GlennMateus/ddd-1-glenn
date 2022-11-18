@@ -1,0 +1,17 @@
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.services.deps.json
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.services.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.services.pdb
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.domain.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.infra.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.domain.pdb
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\bin\Debug\net6.0\backend.infra.pdb
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.csproj.AssemblyReference.cache
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.AssemblyInfoInputs.cache
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.AssemblyInfo.cs
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.csproj.CoreCompileInputs.cache
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.csproj.CopyComplete
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\refint\backend.services.dll
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\backend.services.pdb
+D:\Dev\Aubay\craftable\prt-glenn-mateus-01\backend.services\obj\Debug\net6.0\ref\backend.services.dll

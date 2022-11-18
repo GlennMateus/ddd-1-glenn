@@ -1,0 +1,21 @@
+<table [dataSource]="dataSource" class="mat-elevation-z8" mat-table>
+  <ng-container matColumnDef="postalCode">
+    <th *matHeaderCellDef mat-header-cell> Postal Code</th>
+    <td *matCellDef="let emp" mat-cell> {{emp.postalCode}} </td>
+  </ng-container>
+  <ng-container matColumnDef="distanceInKM">
+    <th *matHeaderCellDef mat-header-cell> Distance to the Airport in KM</th>
+    <td *matCellDef="let emp" mat-cell>
+      {{emp.distanceInKM | number : '.1-2'}} KM
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="distanceInMiles">
+    <th *matHeaderCellDef mat-header-cell> Distance to the Airport in Miles</th>
+    <td *matCellDef="let emp" mat-cell>
+      {{emp.distanceInMiles | number : '.1-2'}} Miles
+    </td>
+  </ng-container>
+
+  <tr *matHeaderRowDef="displayedColumns" mat-header-row></tr>
+  <tr *matRowDef="let emprow; columns: displayedColumns" mat-row></tr>
+</table>

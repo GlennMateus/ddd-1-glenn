@@ -1,0 +1,14 @@
+.container {
+  margin: auto;
+  width: 50%;
+
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.last-searches {
+  margin-top: 2em;
+  text-align: center;
+}

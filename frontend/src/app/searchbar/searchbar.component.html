@@ -1,0 +1,35 @@
+<form (ngSubmit)="onSubmit(form)" [formGroup]="form">
+  <mat-form-field appearance="outline">
+    <mat-label>Postal Code</mat-label>
+    <input class="search-bar" formControlName="search" matInput placeholder="Your best postal code!">
+    <mat-error *ngIf="form.controls['search'].errors?.['required']">
+      Postal code is <strong>required</strong>
+    </mat-error>
+    <mat-error *ngIf="form.controls['search'].errors?.['minlength']">
+      Postal code must be at least 5 characters long
+    </mat-error>
+  </mat-form-field>
+  <div class="submit-buttom" mat-dialog-actions>
+    <button
+      [ngClass]="postalCode!=undefined?'d-none':''"
+      [disabled]="!form.valid"
+      color="primary"
+      mat-raised-button type="submit">search</button>
+    <button
+      [ngClass]="postalCode==undefined?'d-none':''"
+      color="primary"
+      (click) = "reloadPage()"
+      mat-raised-button type="button">search again?</button>
+  </div>
+</form>
+
+<div [ngClass]="postalCode==undefined?'d-none':''" class="result" >
+  <div *ngIf="postalCode">
+    <h2></h2>
+    <p>Postal code: {{ postalCode.postalCode }}</p>
+    <p>Distance from the Airport (KM): {{ postalCode.distanceInKM }}</p>
+    <p>Distance from the Airport (miles):{{ postalCode.distanceInMiles }}</p>
+  </div>
+</div>
+
+
